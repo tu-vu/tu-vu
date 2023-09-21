@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there, I'm Tu 👋
+
+- 💼 I'm currently a developer working in Pro Acquisition team at Thumbtack, which helps onboarding new professionals to platform.
+- 🌱 I’m currently learning mobile / game development.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tuavu/)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-vu&layout=compact&theme=radical)](https://github.com/tu-vu/github-readme-stats)
 
 <!--
 **tu-vu/tu-vu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,7 +12,6 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
