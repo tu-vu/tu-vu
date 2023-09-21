@@ -1,4 +1,4 @@
-### Hi there, I'm Tu 👋
+## Hi there, I'm Tu 👋
 
 - 💼 I'm currently a developer working in Pro Acquisition team at Thumbtack, which helps onboarding new professionals to platform.
 - 🌱 I’m currently learning mobile / game development.
